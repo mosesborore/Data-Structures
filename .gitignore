@@ -1,0 +1,5 @@
+pdfs/
+.vscode/
+__pycache__/
+test1/
+filesystem.py
